@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: -90px;
+}
+h2{
+    font-size: 25px;
+    text-align: right;
+    margin-top: -790px;
+}
+img{
+    width: 30%;
+    height: 30%;
+    margin-left: -20px;
+}
+.CENA{
+    color: azure;
+-webkit-text-stroke: 3px black;
+margin-top: 87px;
+margin-left: 75px;
+}
+hr{
+    font-size: 50px;
+}
+.kupiti{
+    margin-top: -107px;
+}

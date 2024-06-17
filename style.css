@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(231, 120, 56);
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36, 36, 36);
+}
+
+h1{
+    font-size: 50px;
+text-align: center;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
+h2{
+    text-align: right;
+}
+h3{
+ font-size: 50px;
+margin-left: 80px;
+ 
+}
+.farova{
+width: 20%;
+    height: 20%;
+}
+.nav{
+width: 30%;
+height: 30%;
+margin-left: 1300px;
+margin: 623px;
+margin-top: -727px;
+}
+.Nosaci{
+    font-size: 50px;
+margin-left: 750px;
+margin-top: -570px;
+}
+.ulje{
+    width: 30%;
+    height: 30%;
+    margin-left: 1320px;
+    margin-top: -735px;
+    margin-bottom: 1000px;
+}
+.zastita{
+margin-left: 1450px;
+margin-top: -940px;
+
+}
